@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚽ [Project Name TBD]
+# ⚽ ChronicleFC
 
 ### AI-generated career save ideas for EA Sports FC
 
